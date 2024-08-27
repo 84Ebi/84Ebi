@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @84Ebi
-- 👀 I’m interested in python and H.A.C.K.S
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
+
 
 
 <!---
