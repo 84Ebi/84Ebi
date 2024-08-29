@@ -1,5 +1,3 @@
-# Hi there! 👋
-
 I'm Ebrahim Khosravani, an undergraduate Physics student at Sharif University of Technology.
 
 ## Contact
