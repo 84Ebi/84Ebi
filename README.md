@@ -1,7 +1,10 @@
+# Hi there! 👋
+
+I'm Ebrahim Khosravani, an undergraduate Physics student at Sharif University of Technology.
+
+## Contact
+
+- [LinkedIn](linkedin.com/in/ebrahim-khosravani-6a5bbb177)
+- [Email](ebrahimkhosravani3@gmail.com) 
 
 
-
-<!---
-84Ebi/84Ebi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
